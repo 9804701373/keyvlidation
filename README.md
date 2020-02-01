@@ -1,2 +1,2 @@
 # keyvlidation
-by edoo framework 
+by medoo framework 
